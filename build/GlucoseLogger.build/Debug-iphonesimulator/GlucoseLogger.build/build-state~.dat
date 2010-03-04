@@ -1,0 +1,312 @@
+TGlucoseLogger
+v7
+r0
+t288959135.879732
+cCheck dependencies
+cProcessInfoPlistFile /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/Info.plist GlucoseLogger-Info.plist
+cCompileXIB /Users/kamexy/Documents/Xcode/GlucoseLogger/MainWindow.xib
+cCompileXIB /Users/kamexy/Documents/Xcode/GlucoseLogger/SecondView.xib
+cCpResource build/Debug-iphonesimulator/GlucoseLogger.app/16-line-chart.png Resources/Icons/16-line-chart.png
+cCpResource build/Debug-iphonesimulator/GlucoseLogger.app/19-gear.png Resources/Icons/19-gear.png
+cCpResource build/Debug-iphonesimulator/GlucoseLogger.app/Icon_GluInputViewTabBarItem.png Resources/Icons/Icon_GluInputViewTabBarItem.png
+cProcessPCH /var/folders/5F/5FKqryxHG9G-wrIcUFRBiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GlucoseLogger_Prefix-dwwxyoathauriufctkanlzhinakp/GlucoseLogger_Prefix.pch.gch GlucoseLogger_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/Objects-normal/i386/main.o /Users/kamexy/Documents/Xcode/GlucoseLogger/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/Objects-normal/i386/GlucoseLoggerAppDelegate.o /Users/kamexy/Documents/Xcode/GlucoseLogger/Classes/GlucoseLoggerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/Objects-normal/i386/FirstViewController.o /Users/kamexy/Documents/Xcode/GlucoseLogger/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/GlucoseLogger normal i386
+cGenerateDSYMFile /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app.dSYM /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/GlucoseLogger
+cTouch /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B88D85D00000000000000EE
+t1267259485
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/Classes/FirstViewController.h
+c000000004B88F2CF00000000000000EB
+t1267266255
+s235
+i<UIKit/UIKit.h>
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/Classes/FirstViewController.m
+c000000004B88F2CF00000000000005B0
+t1267266255
+s1456
+i"FirstViewController.h"
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/Classes/GlucoseLoggerAppDelegate.h
+c000000004B88F2CF00000000000001E6
+t1267266255
+s486
+i<UIKit/UIKit.h>
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/Classes/GlucoseLoggerAppDelegate.m
+c000000004B88F2CF00000000000003CD
+t1267266255
+s973
+i"GlucoseLoggerAppDelegate.h"
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/GlucoseLogger_Prefix.pch
+c000000004B88F2CF00000000000000C3
+t1267266255
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/MainWindow.xib
+c000000004B88F2CF000000000000422D
+t1267266255
+s16941
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/Resources/Icons/16-line-chart.png
+c00000000497160960000000000000226
+t1232167062
+s550
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/Resources/Icons/19-gear.png
+c00000000497160AE000000000000019D
+t1232167086
+s413
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/Resources/Icons/Icon_GluInputViewTabBarItem.png
+c000000004B76A85D0000000000000255
+t1266067549
+s597
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/SecondView.xib
+c000000004B88F2CF00000000000022F5
+t1267266255
+s8949
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app
+t1267266335
+s340
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app.dSYM
+t1267266335
+s102
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/16-line-chart.png
+t1267266335
+s550
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/19-gear.png
+t1267266335
+s413
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/GlucoseLogger
+t1267266335
+s19548
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/Icon_GluInputViewTabBarItem.png
+t1267266335
+s597
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/Info.plist
+t1267266335
+s588
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/MainWindow.nib
+t1267266335
+s4051
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/PkgInfo
+t1267266335
+s8
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/SecondView.nib
+t1267266335
+s2510
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/Objects-normal/i386/FirstViewController.o
+t1267266335
+s29932
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/Objects-normal/i386/GlucoseLogger.LinkFileList
+c000000004B88F31F00000000000001C4
+t1267266335
+s452
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/Objects-normal/i386/GlucoseLoggerAppDelegate.o
+t1267266335
+s40996
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/Objects-normal/i386/main.o
+t1267266335
+s5968
+
+N/Users/kamexy/Documents/Xcode/GlucoseLogger/main.m
+c000000004B88F2CF0000000000000166
+t1267266255
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/5F/5FKqryxHG9G-wrIcUFRBiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GlucoseLogger_Prefix-dwwxyoathauriufctkanlzhinakp/GlucoseLogger_Prefix.pch.gch
+t1267266335
+s13034960
+
+NGlucoseLogger-Info.plist
+c000000004B88F2CF000000000000038D
+t1267266255
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies288959135#288959135#0(0"0(0#1#0"19984861603901676#0"0#
+
+CCompileC build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/Objects-normal/i386/FirstViewController.o /Users/kamexy/Documents/Xcode/GlucoseLogger/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s288959135.810601
+e288959135.849943
+r1
+xCompileC
+xbuild/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/Objects-normal/i386/FirstViewController.o
+x/Users/kamexy/Documents/Xcode/GlucoseLogger/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/kamexy/Documents/Xcode/GlucoseLogger/Classes/FirstViewController.m288959135#288959135#0(0"0(0#0#73"/Users/kamexy/Documents/Xcode/GlucoseLogger/Classes/FirstViewController.m4300885448#2072"    cd /Users/kamexy/Documents/Xcode/GlucoseLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/GlucoseLogger-generated-files.hmap -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/GlucoseLogger-own-target-headers.hmap -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/GlucoseLogger-all-target-headers.hmap -iquote /Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/GlucoseLogger-project-headers.hmap -F/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/include -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/DerivedSources/i386 -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/DerivedSources -include /var/folders/5F/5FKqryxHG9G-wrIcUFRBiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GlucoseLogger_Prefix-dwwxyoathauriufctkanlzhinakp/GlucoseLogger_Prefix.pch -c /Users/kamexy/Documents/Xcode/GlucoseLogger/Classes/FirstViewController.m -o /Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/Objects-normal/i386/GlucoseLoggerAppDelegate.o /Users/kamexy/Documents/Xcode/GlucoseLogger/Classes/GlucoseLoggerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s288959135.809665
+e288959135.854596
+r1
+xCompileC
+xbuild/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/Objects-normal/i386/GlucoseLoggerAppDelegate.o
+x/Users/kamexy/Documents/Xcode/GlucoseLogger/Classes/GlucoseLoggerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/kamexy/Documents/Xcode/GlucoseLogger/Classes/GlucoseLoggerAppDelegate.m288959135#288959135#0(0"0(0#0#78"/Users/kamexy/Documents/Xcode/GlucoseLogger/Classes/GlucoseLoggerAppDelegate.m4300885448#2082"    cd /Users/kamexy/Documents/Xcode/GlucoseLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/GlucoseLogger-generated-files.hmap -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/GlucoseLogger-own-target-headers.hmap -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/GlucoseLogger-all-target-headers.hmap -iquote /Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/GlucoseLogger-project-headers.hmap -F/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/include -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/DerivedSources/i386 -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/DerivedSources -include /var/folders/5F/5FKqryxHG9G-wrIcUFRBiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GlucoseLogger_Prefix-dwwxyoathauriufctkanlzhinakp/GlucoseLogger_Prefix.pch -c /Users/kamexy/Documents/Xcode/GlucoseLogger/Classes/GlucoseLoggerAppDelegate.m -o /Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/Objects-normal/i386/GlucoseLoggerAppDelegate.o0#
+
+CCompileC build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/Objects-normal/i386/main.o /Users/kamexy/Documents/Xcode/GlucoseLogger/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s288959135.808574
+e288959135.843475
+r1
+xCompileC
+xbuild/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/Objects-normal/i386/main.o
+x/Users/kamexy/Documents/Xcode/GlucoseLogger/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/kamexy/Documents/Xcode/GlucoseLogger/main.m288959135#288959135#0(0"0(0#0#50"/Users/kamexy/Documents/Xcode/GlucoseLogger/main.m4300885448#2034"    cd /Users/kamexy/Documents/Xcode/GlucoseLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/GlucoseLogger-generated-files.hmap -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/GlucoseLogger-own-target-headers.hmap -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/GlucoseLogger-all-target-headers.hmap -iquote /Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/GlucoseLogger-project-headers.hmap -F/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/include -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/DerivedSources/i386 -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/DerivedSources -include /var/folders/5F/5FKqryxHG9G-wrIcUFRBiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GlucoseLogger_Prefix-dwwxyoathauriufctkanlzhinakp/GlucoseLogger_Prefix.pch -c /Users/kamexy/Documents/Xcode/GlucoseLogger/main.m -o /Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/kamexy/Documents/Xcode/GlucoseLogger/MainWindow.xib
+s288959135.200259
+e288959135.466428
+r1
+xCompileXIB
+x/Users/kamexy/Documents/Xcode/GlucoseLogger/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib288959135#288959135#0(0"0(0#0#58"/Users/kamexy/Documents/Xcode/GlucoseLogger/MainWindow.xib4300885448#503"    cd /Users/kamexy/Documents/Xcode/GlucoseLogger    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/MainWindow.nib /Users/kamexy/Documents/Xcode/GlucoseLogger/MainWindow.xib0#
+
+CCompileXIB /Users/kamexy/Documents/Xcode/GlucoseLogger/SecondView.xib
+s288959135.200867
+e288959135.465787
+r1
+xCompileXIB
+x/Users/kamexy/Documents/Xcode/GlucoseLogger/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib288959135#288959135#0(0"0(0#0#58"/Users/kamexy/Documents/Xcode/GlucoseLogger/SecondView.xib4300885448#503"    cd /Users/kamexy/Documents/Xcode/GlucoseLogger    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/SecondView.nib /Users/kamexy/Documents/Xcode/GlucoseLogger/SecondView.xib0#
+
+CCpResource build/Debug-iphonesimulator/GlucoseLogger.app/16-line-chart.png Resources/Icons/16-line-chart.png
+s288959135.201349
+e288959135.225361
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GlucoseLogger.app/16-line-chart.png
+xResources/Icons/16-line-chart.png
+lSLF07#2@38"Copy Resources/Icons/16-line-chart.png288959135#288959135#0(0"0(0#0#77"/Users/kamexy/Documents/Xcode/GlucoseLogger/Resources/Icons/16-line-chart.png4300885448#498"    cd /Users/kamexy/Documents/Xcode/GlucoseLogger    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kamexy/Documents/Xcode/GlucoseLogger/Resources/Icons/16-line-chart.png /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app0#
+
+CCpResource build/Debug-iphonesimulator/GlucoseLogger.app/19-gear.png Resources/Icons/19-gear.png
+s288959135.201898
+e288959135.225530
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GlucoseLogger.app/19-gear.png
+xResources/Icons/19-gear.png
+lSLF07#2@32"Copy Resources/Icons/19-gear.png288959135#288959135#0(0"0(0#0#71"/Users/kamexy/Documents/Xcode/GlucoseLogger/Resources/Icons/19-gear.png13229804949078112#492"    cd /Users/kamexy/Documents/Xcode/GlucoseLogger    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kamexy/Documents/Xcode/GlucoseLogger/Resources/Icons/19-gear.png /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app0#
+
+CCpResource build/Debug-iphonesimulator/GlucoseLogger.app/Icon_GluInputViewTabBarItem.png Resources/Icons/Icon_GluInputViewTabBarItem.png
+s288959135.202648
+e288959135.225729
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GlucoseLogger.app/Icon_GluInputViewTabBarItem.png
+xResources/Icons/Icon_GluInputViewTabBarItem.png
+lSLF07#2@52"Copy Resources/Icons/Icon_GluInputViewTabBarItem.png288959135#288959135#0(0"0(0#0#91"/Users/kamexy/Documents/Xcode/GlucoseLogger/Resources/Icons/Icon_GluInputViewTabBarItem.png4300885448#512"    cd /Users/kamexy/Documents/Xcode/GlucoseLogger    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kamexy/Documents/Xcode/GlucoseLogger/Resources/Icons/Icon_GluInputViewTabBarItem.png /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app0#
+
+CGenerateDSYMFile /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app.dSYM /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/GlucoseLogger
+s288959135.867416
+e288959135.877574
+r1
+xGenerateDSYMFile
+x/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app.dSYM
+x/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/GlucoseLogger
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/GlucoseLogger.app.dSYM build/Debug-iphonesimulator/GlucoseLogger.app/GlucoseLogger288959135#288959135#0(0"0(0#0#103"/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/GlucoseLogger4300885448#416"    cd /Users/kamexy/Documents/Xcode/GlucoseLogger    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/GlucoseLogger -o /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app.dSYM0#
+
+CLd /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/GlucoseLogger normal i386
+s288959135.854652
+e288959135.867334
+r1
+xLd
+x/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/GlucoseLogger
+xnormal
+xi386
+lSLF07#2@108"Link /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/GlucoseLogger288959135#288959135#0(0"0(0#0#0"4300885448#919"    cd /Users/kamexy/Documents/Xcode/GlucoseLogger    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator -F/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator -filelist /Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/Objects-normal/i386/GlucoseLogger.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/GlucoseLogger0#
+
+CProcessInfoPlistFile /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/Info.plist GlucoseLogger-Info.plist
+s288959135.194676
+e288959135.200185
+r1
+xProcessInfoPlistFile
+x/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/Info.plist
+xGlucoseLogger-Info.plist
+lSLF07#2@32"Process GlucoseLogger-Info.plist288959135#288959135#0(0"0(0#0#68"/Users/kamexy/Documents/Xcode/GlucoseLogger/GlucoseLogger-Info.plist20547875170680944#512"    cd /Users/kamexy/Documents/Xcode/GlucoseLogger    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GlucoseLogger-Info.plist -genpkginfo /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app/Info.plist0#
+
+CProcessPCH /var/folders/5F/5FKqryxHG9G-wrIcUFRBiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GlucoseLogger_Prefix-dwwxyoathauriufctkanlzhinakp/GlucoseLogger_Prefix.pch.gch GlucoseLogger_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s288959135.466586
+e288959135.808463
+r1
+xProcessPCH
+x/var/folders/5F/5FKqryxHG9G-wrIcUFRBiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GlucoseLogger_Prefix-dwwxyoathauriufctkanlzhinakp/GlucoseLogger_Prefix.pch.gch
+xGlucoseLogger_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile GlucoseLogger_Prefix.pch288959135#288959135#0(0"0(0#0#68"/Users/kamexy/Documents/Xcode/GlucoseLogger/GlucoseLogger_Prefix.pch4300885448#1915"    cd /Users/kamexy/Documents/Xcode/GlucoseLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/GlucoseLogger-generated-files.hmap -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/GlucoseLogger-own-target-headers.hmap -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/GlucoseLogger-all-target-headers.hmap -iquote /Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/GlucoseLogger-project-headers.hmap -F/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/include -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/DerivedSources/i386 -I/Users/kamexy/Documents/Xcode/GlucoseLogger/build/GlucoseLogger.build/Debug-iphonesimulator/GlucoseLogger.build/DerivedSources -c /Users/kamexy/Documents/Xcode/GlucoseLogger/GlucoseLogger_Prefix.pch -o /var/folders/5F/5FKqryxHG9G-wrIcUFRBiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GlucoseLogger_Prefix-dwwxyoathauriufctkanlzhinakp/GlucoseLogger_Prefix.pch.gch0#
+
+CTouch /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app
+s288959135.877631
+e288959135.879702
+r1
+xTouch
+x/Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app
+lSLF07#2@95"Touch /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app288959135#288959135#0(0"0(0#0#0"4300885448#294"    cd /Users/kamexy/Documents/Xcode/GlucoseLogger    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/kamexy/Documents/Xcode/GlucoseLogger/build/Debug-iphonesimulator/GlucoseLogger.app0#
+

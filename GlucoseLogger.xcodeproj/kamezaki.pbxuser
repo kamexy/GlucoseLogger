@@ -1,0 +1,282 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* GlucoseLoggerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 273}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 153}";
+		};
+	};
+	1D3623250D0F684500981E51 /* GlucoseLoggerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 654}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 973}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* GlucoseLogger */ = {
+		activeExec = 0;
+		executables = (
+			6B778BFD113E555600020198 /* GlucoseLogger */,
+		);
+	};
+	28A0AB4B0D9B1048005BE974 /* GlucoseLogger_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 117}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 195}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6B778BFD113E555600020198 /* GlucoseLogger */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GlucoseLogger */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GlucoseLogger */,
+		);
+		codeSenseManager = 6B778C17113E555B00020198 /* Code sense */;
+		executables = (
+			6B778BFD113E555600020198 /* GlucoseLogger */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					657,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 289304869;
+			PBXWorkspaceStateSaveDate = 289304869;
+		};
+		perUserProjectItems = {
+			6B67412D113E72F100F6E7B5 /* PBXTextBookmark */ = 6B67412D113E72F100F6E7B5 /* PBXTextBookmark */;
+			6B67412E113E72F100F6E7B5 /* PBXTextBookmark */ = 6B67412E113E72F100F6E7B5 /* PBXTextBookmark */;
+			6B67412F113E72F100F6E7B5 /* PBXTextBookmark */ = 6B67412F113E72F100F6E7B5 /* PBXTextBookmark */;
+			6B674135113E732B00F6E7B5 /* PBXTextBookmark */ = 6B674135113E732B00F6E7B5 /* PBXTextBookmark */;
+			6B674136113E732B00F6E7B5 /* PBXTextBookmark */ = 6B674136113E732B00F6E7B5 /* PBXTextBookmark */;
+			6B674137113E732B00F6E7B5 /* PBXTextBookmark */ = 6B674137113E732B00F6E7B5 /* PBXTextBookmark */;
+			6B67413A113E733D00F6E7B5 /* PBXTextBookmark */ = 6B67413A113E733D00F6E7B5 /* PBXTextBookmark */;
+			6BC7319E113E69AF004141CD /* PBXTextBookmark */ = 6BC7319E113E69AF004141CD /* PBXTextBookmark */;
+			6BC731B0113E6D4B004141CD /* PBXTextBookmark */ = 6BC731B0113E6D4B004141CD /* PBXTextBookmark */;
+			6BC731D9113E6FD9004141CD /* PBXTextBookmark */ = 6BC731D9113E6FD9004141CD /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6B778C16113E555B00020198 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6B67412D113E72F100F6E7B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 79B45E28113AD0A700985EC3 /* GluInputDetailViewController.h */;
+		name = "GluInputDetailViewController.h: 33";
+		rLen = 28;
+		rLoc = 845;
+		rType = 0;
+		vrLen = 937;
+		vrLoc = 0;
+	};
+	6B67412E113E72F100F6E7B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 79FFC9FD113AC22400A3D4ED /* GluInputViewController.h */;
+		name = "GluInputViewController.h: 19";
+		rLen = 0;
+		rLoc = 420;
+		rType = 0;
+		vrLen = 567;
+		vrLoc = 0;
+	};
+	6B67412F113E72F100F6E7B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6BC7311A113E6253004141CD /* GluInputDatetimeViewController.h */;
+		name = "GluInputDatetimeViewController.h: 14";
+		rLen = 37;
+		rLoc = 245;
+		rType = 0;
+		vrLen = 783;
+		vrLoc = 0;
+	};
+	6B674135113E732B00F6E7B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 79FFC9FE113AC22400A3D4ED /* GluInputViewController.m */;
+		name = "GluInputViewController.m: 276";
+		rLen = 0;
+		rLoc = 10187;
+		rType = 0;
+		vrLen = 1238;
+		vrLoc = 9072;
+	};
+	6B674136113E732B00F6E7B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 79B45E29113AD0A700985EC3 /* GluInputDetailViewController.m */;
+		name = "GluInputDetailViewController.m: 87";
+		rLen = 113;
+		rLoc = 2303;
+		rType = 0;
+		vrLen = 1442;
+		vrLoc = 1655;
+	};
+	6B674137113E732B00F6E7B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6BC7311B113E6253004141CD /* GluInputDatetimeViewController.m */;
+		name = "GluInputDatetimeViewController.m: 66";
+		rLen = 465;
+		rLoc = 1523;
+		rType = 0;
+		vrLen = 1152;
+		vrLoc = 1369;
+	};
+	6B67413A113E733D00F6E7B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6BC7311B113E6253004141CD /* GluInputDatetimeViewController.m */;
+		name = "GluInputDatetimeViewController.m: 85";
+		rLen = 0;
+		rLoc = 2189;
+		rType = 0;
+		vrLen = 1333;
+		vrLoc = 1448;
+	};
+	6B778BFD113E555600020198 /* GlucoseLogger */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GlucoseLogger;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6B778C16113E555B00020198 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6B778C17113E555B00020198 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6BC7311A113E6253004141CD /* GluInputDatetimeViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {835, 650}}";
+			sepNavSelRange = "{245, 37}";
+			sepNavVisRange = "{0, 783}";
+		};
+	};
+	6BC7311B113E6253004141CD /* GluInputDatetimeViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1443}}";
+			sepNavSelRange = "{2189, 0}";
+			sepNavVisRange = "{1448, 1333}";
+		};
+	};
+	6BC7319E113E69AF004141CD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GlucoseLoggerAppDelegate.m */;
+		name = "GlucoseLoggerAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 973;
+		vrLoc = 0;
+	};
+	6BC731B0113E6D4B004141CD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6BC731B1113E6D4B004141CD /* NSDate.h */;
+		name = "NSDate.h: 9";
+		rLen = 31;
+		rLoc = 125;
+		rType = 0;
+		vrLen = 1272;
+		vrLoc = 0;
+	};
+	6BC731B1113E6D4B004141CD /* NSDate.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSDate.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDate.h;
+		sourceTree = "<absolute>";
+	};
+	6BC731D9113E6FD9004141CD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6BC731DA113E6FD9004141CD /* UIDatePicker.h */;
+		name = "UIDatePicker.h: 33";
+		rLen = 184;
+		rLoc = 1359;
+		rType = 0;
+		vrLen = 2313;
+		vrLoc = 0;
+	};
+	6BC731DA113E6FD9004141CD /* UIDatePicker.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIDatePicker.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDatePicker.h;
+		sourceTree = "<absolute>";
+	};
+	79B45E28113AD0A700985EC3 /* GluInputDetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {835, 650}}";
+			sepNavSelRange = "{845, 28}";
+			sepNavVisRange = "{0, 937}";
+		};
+	};
+	79B45E29113AD0A700985EC3 /* GluInputDetailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1482}}";
+			sepNavSelRange = "{2303, 113}";
+			sepNavVisRange = "{1655, 1442}";
+			sepNavWindowFrame = "{{15, 178}, {1194, 995}}";
+		};
+	};
+	79FFC9FD113AC22400A3D4ED /* GluInputViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {835, 650}}";
+			sepNavSelRange = "{420, 0}";
+			sepNavVisRange = "{0, 567}";
+		};
+	};
+	79FFC9FE113AC22400A3D4ED /* GluInputViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1643, 3475}}";
+			sepNavSelRange = "{9344, 0}";
+			sepNavVisRange = "{9287, 445}";
+		};
+	};
+}
